@@ -6,7 +6,7 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>茨城ICOシティ</h1>
+      <h1>どこそこ</h1>
       <h2>登記手続確認</h2>
       <SignIn />
       <Checkout />
